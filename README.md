@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ex3del, Evgeniy
 - 👀 I’m interested in machine learning, data sience, war history, boardgames and wargames
-- 🌱 I’m currently learning Python and I'm a third-year student in MPEI, studiyng managment in technical systems
+- 🌱 I’m currently learning Data Sience and I'm a third-year student in MPEI, studiyng managment in technical systems
 - 💞️ I’m looking to collaborate on any project to start my career 
 - 📫 How to reach me enkwi@mail.ru
 
